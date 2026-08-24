@@ -13,6 +13,7 @@
     "@adiwajshing/keyed-db": "^0.2.4",
     "sharp": "^0.32.6",
     "jimp": "*",
+    "mongoose": "latest",
     "google-tts-api": "^2.0.2",
     "pino": "^7.0.5",
     "adm-zip": "^0.5.17",
